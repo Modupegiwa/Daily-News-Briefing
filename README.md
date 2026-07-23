@@ -165,7 +165,7 @@ Feel free to fork the repository, submit issues, or open a pull request.
 
 Want to receive the daily tech news briefing?
 
-**Subscription Form:** *http://localhost:5678/form/678e897e-1968-4bcf-9c19-350dfafc389c*
+**Subscription Form:** *https://mogiwa.app.n8n.cloud/form/9a78d1d3-cb99-4c17-92db-70ae25124821*
 
 ---
 
